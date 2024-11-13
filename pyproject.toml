@@ -1,0 +1,9 @@
+[project]
+name = "NotARickRoll"
+version = "0.1.0"
+description = "A simple PyQt5 app that opens probably not open a Rick Astley video on button click"
+authors = [
+    { name = "Nicowalk", email = "" }
+]
+license = { text = "MIT" }
+dependencies = ["PyQt5"]
